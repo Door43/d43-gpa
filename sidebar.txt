@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gpa:home|Door43 (gpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gpa|d43-gpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gpa/archive/master.zip|d43-gpa.zip]]
+
+**Recent Changes**
+{{changes>ns = gpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gpa|Ethnologue data]]
+
